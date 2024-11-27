@@ -17,27 +17,30 @@ Image captioning involves generating textual descriptions of images. This projec
 ---
 
 ## Dataset Organization
-The dataset is divided into three subsets:
+
+The dataset is divided into three subsets for training, one for validation, and one for testing. Click on the links to access the respective image folders and annotation files:
+
 1. **Training - 1 Dataset**  
-   - **Image Path**: `https://drive.google.com/drive/folders/1OkWH6p-KhzDLltDDeRz-KSoYSsL2kDCy?usp=sharing`  
-   - **Annotations Path**: `https://github.com/vineeth191004/Image-Captioning-under-inclined-weather-conditions/blob/main/train_combined.json`  
+   - **Image Path**: [Google Drive Link](https://drive.google.com/drive/folders/1OkWH6p-KhzDLltDDeRz-KSoYSsL2kDCy?usp=sharing)  
+   - **Annotations Path**: [train_combined.json](https://github.com/vineeth191004/Image-Captioning-under-inclined-weather-conditions/blob/main/train_combined.json)  
 
 2. **Training - 2 Dataset**  
-   - **Image Path**: `https://drive.google.com/drive/folders/1-MSfhiaGbu8dHMiz5tcng9qHTdNBBZ0Z?usp=sharing`  
-   - **Annotations Path**: `train2_combined.json`  
+   - **Image Path**: [Google Drive Link](https://drive.google.com/drive/folders/1-MSfhiaGbu8dHMiz5tcng9qHTdNBBZ0Z?usp=sharing)  
+   - **Annotations Path**: [train2_combined.json](https://github.com/vineeth191004/Image-Captioning-under-inclined-weather-conditions/blob/main/train2_combined.json)  
 
-3. **Training - 3 Dataset**
-   - **Image Path** : `https://drive.google.com/drive/folders/1saQvECFWUtyZkKFz5ZKQfFI2TMgyg7GG?usp=sharing`
-   - **Annotations Path**: `sr_updated.json`
+3. **Training - 3 Dataset**  
+   - **Image Path**: [Google Drive Link](https://drive.google.com/drive/folders/1saQvECFWUtyZkKFz5ZKQfFI2TMgyg7GG?usp=sharing)  
+   - **Annotations Path**: [sr_updated.json](https://github.com/vineeth191004/Image-Captioning-under-inclined-weather-conditions/blob/main/sr_updated.json)  
 
-4. **Validation Dataset**
-   - **Image Path** : `https://drive.google.com/drive/folders/1saQvECFWUtyZkKFz5ZKQfFI2TMgyg7GG?usp=sharing`
-   - **Annotations Path**: `valid_combined.json`
+4. **Validation Dataset**  
+   - **Image Path**: [Google Drive Link](https://drive.google.com/drive/folders/1saQvECFWUtyZkKFz5ZKQfFI2TMgyg7GG?usp=sharing)  
+   - **Annotations Path**: [valid_combined.json](https://github.com/vineeth191004/Image-Captioning-under-inclined-weather-conditions/blob/main/valid_combined.json)  
 
 5. **Testing Dataset**  
-   - **Image Path**: `https://drive.google.com/drive/folders/1flIT8b3EqM6ifZvEAsXk92YSaF3wcwPY?usp=sharing`  
-   - **Annotations Path**: `test_combined.json`  
+   - **Image Path**: [Google Drive Link](https://drive.google.com/drive/folders/1flIT8b3EqM6ifZvEAsXk92YSaF3wcwPY?usp=sharing)  
+   - **Annotations Path**: [test_combined.json](https://github.com/vineeth191004/Image-Captioning-under-inclined-weather-conditions/blob/main/test_combined.json)  
 
+---
 **Note**: Update the paths above with your actual dataset locations before running the code.
 
 ---
@@ -96,5 +99,3 @@ git clone https://github.com/vineeth191004/Image-Captioning-under-inclined-weath
    ```
 
 ---
-
-Let me know if further refinements are needed!
