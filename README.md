@@ -70,10 +70,6 @@ The dataset is divided into three subsets for training, one for validation, and 
 
 ---
 
-Here is the updated README section with the cloning instructions:
-
----
-
 ## Usage
 
 ### Clone the Repository
